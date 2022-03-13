@@ -1,7 +1,7 @@
-# pdm1-imc
+# pdm1-cara-coroa
 
 _Fagno_
-| 09 de Mar.
+| 23 de Fev.
 
 **Cara ou Coroa é um jogo simples, que consiste em se atirar uma moeda ao ar para então verificar qual de seus lados ficou voltado para cima após sua queda. É comumente utilizado para se escolher entre duas alternativas ou para resolver uma disputa entre duas partes. Crie um aplicativo para representar o jogo de Cara ou Coroa.**
 
