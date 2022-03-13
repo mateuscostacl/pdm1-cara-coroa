@@ -7,18 +7,18 @@ _Fagno_
 
 Instruções para gerar valor Randômico:
 
+```java
 //declarar uma instância da classe Random
-
 Random randomico = new Random();
 
 //criar uma variável inteira para receber o valor aleatório entre 0 e 1, utilizando o método nextInt().
 
 int valorAleatorio = randomico.nextInt(2);
-
+```
 NOTA: Outra maneira de alterar o valor do ImageView, exemplo abaixo:
-
+```java
 imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.@id_IMAGE));
-
+```
 Por fim, crie uma tela splash para seu aplicativo, instruções a seguir:
 1) Crie uma activity e utilize o código disponível no arquivo/classe anexo;
 2) Adicione a imagem/logo para sua tela splash no layout de activity criada ;
