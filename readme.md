@@ -12,7 +12,6 @@ Instruções para gerar valor Randômico:
 Random randomico = new Random();
 
 //criar uma variável inteira para receber o valor aleatório entre 0 e 1, utilizando o método nextInt().
-
 int valorAleatorio = randomico.nextInt(2);
 ```
 NOTA: Outra maneira de alterar o valor do ImageView, exemplo abaixo:
